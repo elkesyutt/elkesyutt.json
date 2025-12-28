@@ -3,7 +3,7 @@
    <img src="https://files.catbox.moe/rhm9rt.webp" width="250"/>
 </p>
 <p align="center">
-    <a href="https://sociabuzz.com/yuukeyd7eppeli" target="_blank">Donasi Seikhlasnya Cik🥰<a>
+    <a href="https://saweria.co/kesyutt" target="_blank">Donasi Seikhlasnya Cik🥰<a>
 </p>
    
 ---
@@ -11,9 +11,9 @@
 ## All About Me
 ```json
 {
-  "name": "Yuukey-7eppeli",
-  "BirtDay": "25-02-2008",
-  "Age": "17 Y'Old",
+  "name": "Elkesyutt.Json",
+  "BirtDay": "22-09-2001",
+  "Age": "24 Y'Old",
   "Hobbies": [
     "Sleep",
     "Make A Fvcking Code",
